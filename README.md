@@ -17,3 +17,7 @@ Lesson 3: Statistics in EdgeR
 Lesson 4: Single-Cell RNA-seq
   - Download Day 4 slides and exercise files above
   - Recorded lecture to watch and follow: https://www.youtube.com/watch?v=Lo5GeAk46yw
+
+Lesson 5: Pathway Analysis
+  - Download Day 5 slides and exercise files above
+  - Recorded lecture will be available soon!
