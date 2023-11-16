@@ -20,4 +20,4 @@ Lesson 4: Single-Cell RNA-seq
 
 Lesson 5: Pathway Analysis
   - Download Day 5 slides and exercise files above
-  - Recorded lecture will be available soon!
+  - Recorded lecture to watch and follow: https://www.youtube.com/watch?v=TF2SEZpX14s
